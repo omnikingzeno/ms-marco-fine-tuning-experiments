@@ -142,8 +142,8 @@ The codebase includes several optimizations for large-scale processing:
 ## Results Structure
 
 Evaluation outputs include:
-- **WANDB train loss plots**: Query-passage rankings with scores
-- **UMAP Visualizations**: Experimental parameters and statistics
+- **WANDB train loss plots**
+- **UMAP Visualizations**
 - **Timing Data**: Inference speed benchmarks
 - **MRR Metrics**: MRR@10 and MRR@100 scores
 
